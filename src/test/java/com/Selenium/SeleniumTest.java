@@ -16,6 +16,9 @@ public class SeleniumTest {
 public void BrowserAutomation() {
 	
 	System.out.println("BrowserAutomation");
+	System.out.println("WebAutomation");
+	System.out.println("MobileAutomation");
+	
 	
 }
 
@@ -23,6 +26,7 @@ public void BrowserAutomation() {
 public void ElementsUI() {
 	
 	System.out.println("ElementsUI");
+	System.out.println("WebElementUI");
 	
 }
 
