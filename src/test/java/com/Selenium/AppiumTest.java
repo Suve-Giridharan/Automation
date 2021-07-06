@@ -9,12 +9,15 @@ public class AppiumTest {
 public void NativeAndroid() {
 	
 	System.out.println("NativeAndroid");
+	System.out.println("NativeMacOs");
+	
 }
 
 @Test
 public void IOSApps() {
 	
 	System.out.println("IOSApps");
+	System.out.println("AndroidplaystoreApp");
 }
 
 }
