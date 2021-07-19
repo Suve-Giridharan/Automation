@@ -10,6 +10,7 @@ public void NativeAndroid() {
 	
 	System.out.println("NativeAndroid");
 	System.out.println("NativeMacOs");
+	System.out.println("Using Paid tool");
 	
 }
 
@@ -18,6 +19,7 @@ public void IOSApps() {
 	
 	System.out.println("IOSApps");
 	System.out.println("AndroidplaystoreApp");
+	System.out.println("Using Free Tool BrowserStack");
 }
 
 }

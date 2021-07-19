@@ -18,6 +18,7 @@ public void BrowserAutomation() {
 	System.out.println("BrowserAutomation");
 	System.out.println("WebAutomation");
 	System.out.println("MobileAutomation");
+	System.out.println("genie Framework using selenium");
 	
 	
 }
@@ -27,6 +28,7 @@ public void ElementsUI() {
 	
 	System.out.println("ElementsUI");
 	System.out.println("WebElementUI");
+	System.out.println("Page with genie Framework codes");
 	
 }
 

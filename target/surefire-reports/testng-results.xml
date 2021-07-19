@@ -1,36 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-01T23:55:27 IST" name="Suite" finished-at="2021-07-01T23:55:27 IST" duration-ms="171">
+  <suite name="Suite" duration-ms="31" started-at="2021-07-18T23:11:26 IST" finished-at="2021-07-18T23:11:26 IST">
     <groups>
     </groups>
-    <test started-at="2021-07-01T23:55:27 IST" name="Test" finished-at="2021-07-01T23:55:27 IST" duration-ms="171">
-      <class name="com.Selenium.AppiumTest">
-        <test-method signature="IOSApps()[pri:0, instance:com.Selenium.AppiumTest@366647c2]" started-at="2021-07-01T23:55:27 IST" name="IOSApps" finished-at="2021-07-01T23:55:27 IST" duration-ms="11" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- IOSApps -->
-        <test-method signature="NativeAndroid()[pri:0, instance:com.Selenium.AppiumTest@366647c2]" started-at="2021-07-01T23:55:27 IST" name="NativeAndroid" finished-at="2021-07-01T23:55:27 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- NativeAndroid -->
-      </class> <!-- com.Selenium.AppiumTest -->
+    <test name="Test" duration-ms="31" started-at="2021-07-18T23:11:26 IST" finished-at="2021-07-18T23:11:26 IST">
       <class name="com.Selenium.SeleniumTest">
-        <test-method signature="BrowserAutomation()[pri:0, instance:com.Selenium.SeleniumTest@3e6ef8ad]" started-at="2021-07-01T23:55:27 IST" name="BrowserAutomation" finished-at="2021-07-01T23:55:27 IST" duration-ms="1" status="PASS">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:com.Selenium.SeleniumTest@3cef309d]" name="BrowserAutomation" duration-ms="3" started-at="2021-07-18T23:11:26 IST" finished-at="2021-07-18T23:11:26 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserAutomation -->
-        <test-method signature="ElementsUI()[pri:0, instance:com.Selenium.SeleniumTest@3e6ef8ad]" started-at="2021-07-01T23:55:27 IST" name="ElementsUI" finished-at="2021-07-01T23:55:27 IST" duration-ms="3" status="PASS">
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:com.Selenium.SeleniumTest@3cef309d]" name="ElementsUI" duration-ms="1" started-at="2021-07-18T23:11:26 IST" finished-at="2021-07-18T23:11:26 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ElementsUI -->
       </class> <!-- com.Selenium.SeleniumTest -->
       <class name="com.Selenium.RestApiTest">
-        <test-method signature="DeleteTwitter()[pri:0, instance:com.Selenium.RestApiTest@346d61be]" started-at="2021-07-01T23:55:27 IST" name="DeleteTwitter" finished-at="2021-07-01T23:55:27 IST" duration-ms="1" status="PASS">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:com.Selenium.RestApiTest@1efed156]" name="DeleteTwitter" duration-ms="1" started-at="2021-07-18T23:11:26 IST" finished-at="2021-07-18T23:11:26 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJIRA()[pri:0, instance:com.Selenium.RestApiTest@1efed156]" name="PostJIRA" duration-ms="0" started-at="2021-07-18T23:11:26 IST" finished-at="2021-07-18T23:11:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJIRA -->
       </class> <!-- com.Selenium.RestApiTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
